@@ -1,0 +1,10 @@
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\TwitchPlantMod.deps.json
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\TwitchPlantMod.dll
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\TwitchPlantMod.pdb
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.csproj.AssemblyReference.cache
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.AssemblyInfoInputs.cache
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.AssemblyInfo.cs
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.csproj.CoreCompileInputs.cache
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.dll
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\TwitchPlantMod.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzWOurNHY8SUW9Y9UwYaE09EQ+lKb1Kq0dtIYJzVclv9fFLEewmCFPuAPVo9AxmQ3Dpm9JL1cNXCF68PV7NFCw==",
+  "success": true,
+  "projectFilePath": "E:\\Programming Workspaces\\C# Workspace\\TwitchPlantMod\\TwitchPlantMod\\StardewTwitchTrackerMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cody\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.0\\pathoschild.stardew.modbuildconfig.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

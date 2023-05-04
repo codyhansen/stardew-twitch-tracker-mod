@@ -1,0 +1,10 @@
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\StardewTwitchTrackerMod.deps.json
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\StardewTwitchTrackerMod.dll
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\bin\Debug\net5.0\StardewTwitchTrackerMod.pdb
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.AssemblyInfoInputs.cache
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.AssemblyInfo.cs
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.csproj.CoreCompileInputs.cache
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.dll
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.pdb
+E:\Programming Workspaces\C# Workspace\TwitchPlantMod\TwitchPlantMod\obj\Debug\net5.0\StardewTwitchTrackerMod.csproj.AssemblyReference.cache
